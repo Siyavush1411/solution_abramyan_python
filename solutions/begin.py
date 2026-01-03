@@ -117,3 +117,16 @@ quot = abs(a) / abs(b)
 print("Сумма равна", sum)
 print("Разность равна", diff)
 print("Частное модулей равно", quot)
+
+
+#  Begin 12
+
+a = 3
+b = 4
+
+c = math.sqrt(pow(a, 2) + pow(b, 2))
+p = a + b + c
+print("Гипотенуза равна", c)
+print("Периметр равен", p)
+
+
