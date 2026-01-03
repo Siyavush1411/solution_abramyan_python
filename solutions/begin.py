@@ -107,3 +107,13 @@ print("Частное квадратов равно", quot)
 
 
 #  Begin 11
+
+a = -8
+b = 2
+
+sum = a + b
+diff = a - b
+quot = abs(a) / abs(b)
+print("Сумма равна", sum)
+print("Разность равна", diff)
+print("Частное модулей равно", quot)
