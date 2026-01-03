@@ -92,3 +92,18 @@ print("Среднее геометрическое равно (альтерна�
 
 
 #  Begin 10
+
+a = 7
+b = 2
+
+sum = a + b
+diff = a - b
+prod = a * b
+quot = a ** 2 / b ** 2
+print("Сумма равна", sum)
+print("Разность равна", diff)
+print("Произведение равно", prod)
+print("Частное квадратов равно", quot)
+
+
+#  Begin 11
