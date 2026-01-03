@@ -152,3 +152,13 @@ s = math.pi * pow(r, 2)
 print("Радиус окружности равен", r)
 print("Площадь круга равна", s)
 
+
+#  Begin 15
+
+s = 50
+r = math.sqrt(s / math.pi)
+s = math.pi * pow(r, 2)
+print("Радиус круга равен", r)
+print("Площадь круга равна", s)
+
+
